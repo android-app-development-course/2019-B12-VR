@@ -14,13 +14,13 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 
 | 页面 | 图片展示 |
 | :----: | :----: |
-| 启动页 | ![启动页](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI-Design/Picture/LaunchPage1.png) |
-| VR实验室 | ![VR实验室](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI-Design/Picture/LaunchPage3.png) |
-| 口语卡片 | ![口语卡片](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI-Design/Picture/SpeechCard1.png) |
-| 口语卡片训练 | ![口语卡片训练](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI-Design/Picture/SpeechCard5.png) |
-| 进度统计 | ![进度统计](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI-Design/Picture/Schedule.png) |
-| 侧边栏 | ![侧边栏](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI-Design/Picture/SideDrawer.png) |
-| 登录 | ![登录](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UUI-Design/Picture/Login.png) |
+| 启动页 | ![启动页](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/引导页1.png) |
+| VR实验室 | ![VR实验室](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/引导页3.png) |
+| 口语卡片 | ![口语卡片](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/口语卡片1.png) |
+| 口语卡片训练 | ![口语卡片训练](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/口语卡片5.png) |
+| 进度统计 | ![进度统计](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/进度统计.png) |
+| 侧边栏 | ![侧边栏](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/侧边栏1.png) |
+| 登录 | ![登录](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/登录.png) |
 
 <br/>
 <br/>
@@ -31,11 +31,11 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 #树形图
 - Project Document
   |- “VR口吃治疗与训练”产品方案设计.pdf
-  |- UI-Design
-      |- Video
-      |- Picture
+  |- UI设计 
+      |- 视频
+      |- 图片
       |- UI设计 VR口吃治疗APP.ppt
-      |- Full-UI-Design.jpg
+      |- 总体UI设计.jpg
       
 - README.md
 
