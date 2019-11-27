@@ -1,4 +1,4 @@
-﻿﻿# "VR口吃治疗与训练"安卓移动应用
+﻿# "VR口吃治疗与训练"安卓移动应用
 
 <br/>
 
@@ -10,33 +10,13 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 <br/>
 <br/>
 
-## 界面展示
-
-| 页面 | 图片展示 |
-| :----: | :----: |
-| 启动页 | ![启动页](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/引导页1.png) |
-| VR实验室 | ![VR实验室](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/引导页3.png) |
-| 口语卡片 | ![口语卡片](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/口语卡片1.png) |
-| 口语卡片训练 | ![口语卡片训练](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/口语卡片5.png) |
-| 进度统计 | ![进度统计](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/进度统计.png) |
-| 侧边栏 | ![侧边栏](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/侧边栏1.png) |
-| 登录 | ![登录](https://github.com/Ryzin/2019-B12-VR/ProjectDocument/UI设计/图片/登录.png) |
-
-<br/>
-<br/>
-
 ## 项目目录结构
 
 ```python
 #树形图
 - Project Document
   |- “VR口吃治疗与训练”产品方案设计.pdf
-  |- UI设计 
-      |- 视频
-      |- 图片
-      |- UI设计 VR口吃治疗APP.ppt
-      |- 总体UI设计.jpg
-      
+
 - README.md
 
 ```
@@ -52,13 +32,14 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 <br/>
 
 ## 项目进度
-- [x] 功能确定与UI设计
+- [x] 待补充
+- [x] 待补充
 
 <br/>
 <br/>
 
-## 感谢
-- CardStackView https://github.com/yuyakaido/CardStackView
+## 组员在项目中让人窒息的几个高级操作
+- [x] git push origin master --force
 
 <br/>
 <br/>
